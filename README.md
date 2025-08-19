@@ -3,11 +3,6 @@
 [![Portfolio Site](https://img.shields.io/website?label=&style=for-the-badge&url=https%3A%2F%2F)](https://)
 [![Twitter Follow](https://img.shields.io/twitter/follow/HarshvardhanMor?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHarshvardhanMor&screen_name=Harshvardhanmor)
 
-## I'm a Developer!!
-
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goal : Complete the goal of 6000 Websites, apps and misc projects 😆
-- ⚡ Fun fact: I can play guitar so if my startup fails, I have a backup 🤣
 
 ### Connect with me:
 
